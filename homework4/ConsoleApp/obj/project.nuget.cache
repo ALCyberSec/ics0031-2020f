@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jAZB56PexLA8NAh1L0ypf6aynZIsUG8LD7yAkt23q9762UfXEeppfyrhTv9sP3FmhTJ2r8KhG+ax4mSL2W4I1Q==",
+  "success": true,
+  "projectFilePath": "/home/recoskyler/Documents/Uni/ics0031-2020fAL/homework secure webapp/ConsoleApp/ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/home/recoskyler/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/recoskyler/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/recoskyler/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.11/microsoft.netcore.app.host.linux-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
